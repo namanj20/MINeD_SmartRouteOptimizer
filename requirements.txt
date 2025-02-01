@@ -1,0 +1,7 @@
+tkinter
+pandas
+numpy
+scikit-learn
+haversine
+openpyxl
+folium

@@ -59,13 +59,9 @@ The application generates an Excel file named "formatted_trip_details.xlsx" cont
 
 Contributions to the Smart Route Optimizer project are welcome. Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
-
-[Include your license information here]
-
 ## Contact
 
-[Your contact information or project maintainer's contact]
+inaman2004@gmail.com
 
 ## Acknowledgments
 

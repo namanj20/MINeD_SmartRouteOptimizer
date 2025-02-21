@@ -6,7 +6,7 @@ Smart Route Optimizer is an advanced route optimization solution designed to enh
 
 ## Features
 
-- User-friendly GUI built with tkinter
+- User-friendly GUI built with Tkinter
 - File input for delivery data
 - Advanced route optimization algorithm
 - Interactive map visualization of optimized routes

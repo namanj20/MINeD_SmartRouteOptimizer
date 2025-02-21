@@ -1,8 +1,8 @@
-# **OptiShip: Smart Route Optimizer**
+# **Smart Route Optimizer**
 
 ## **MINeD Hackathon 2025 Project**
 
-**OptiShip** is an advanced algorithm-driven route optimization tool designed to enhance last-mile delivery efficiency. It ensures **on-time shipments**, **optimal vehicle utilization**, and **cost-effective logistics planning**. 
+An advanced algorithm-driven route optimization tool designed to enhance last-mile delivery efficiency. It ensures **on-time shipments**, **optimal vehicle utilization**, and **cost-effective logistics planning**. 
 
 ---
 

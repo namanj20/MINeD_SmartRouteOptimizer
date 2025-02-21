@@ -24,7 +24,7 @@ Smart Route Optimizer is an advanced route optimization solution designed to enh
 Install the required packages using the following command:
 
 
-pip install pandas numpy scikit-learn haversine openpyxl folium tkinter
+pip install -r requirements.txt
 
 
 ## Usage
